@@ -19,5 +19,7 @@ This shows the information of employees that work in the warehouse. The columns 
 ## INNER JOIN, ON, WHERE Queries
 IMPORT[https://github.com/Esthey/Database-in-SQL/blob/main/SQLQuery2.sql]
 
+## I have more than ten queries uploaded on the responsitory, click the file to view them.
+
 # Conclusion
 SQL is a great tool for creating databases for storing different data especially when such data contains millions of rows 
