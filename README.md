@@ -7,7 +7,7 @@ Information contained in these tables does not represent any individual. It was 
 
 # Skills Demonstrated
 -- Creating database, creating tables and columns, Inserting data into Columns
--- SQL SYNTAX used: CREATE DATABASE, CRAETE TABLES, INSERT INTO, INT, VARCHAR, VALUES, ORDERBY, WHERE, TRIM, TOP,  DELETE,JOINS.
+-- SQL SYNTAX used: CREATE DATABASE, CRAETE TABLES, INSERT INTO, INT, VARCHAR, VALUES, ORDERBY, WHERE, TRIM, TOP, AVG, DELETE,JOINS.
 
 # Employee Demographic
 This Table shows the EmployeeID, FirstName, LastName, Age, and Gender of Employees
@@ -15,6 +15,7 @@ This Table shows the EmployeeID, FirstName, LastName, Age, and Gender of Employe
 The columns present in this table are EmployeeID, JobTitle, and their respective Salary.
 # Warehouse_employee_demo
 This shows the information of employees that work in the warehouse. The columns contained in trhis table are thesame as that of the employe Demographic table
+IMPORT[https://github.com/Esthey/Database-in-SQL/blob/main/SQLQuery2.sql]
 
 # Conclusion
 SQL is a great tool for creating databases for storing different data especially when such data contains millions of rows 
