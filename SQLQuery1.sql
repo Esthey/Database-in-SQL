@@ -1,0 +1,6 @@
+SELECT TOP (9) [EmployeeID]
+      ,[FirstName]
+      ,[LastName]
+      ,[Age]
+      ,[Gender]
+  FROM [SQL TUTORIAL].[dbo].[EmployeeDemographics]
