@@ -14,7 +14,9 @@ This Table shows the EmployeeID, FirstName, LastName, Age, and Gender of Employe
 # Employee Salary
 The columns present in this table are EmployeeID, JobTitle, and their respective Salary.
 # Warehouse_employee_demo
-This shows the information of employees that work in the warehouse. The columns contained in trhis table are thesame as that of the employe Demographic table
+This shows the information of employees that work in the warehouse. The columns contained in trhis table are thesame as that of the employe Demographic table.
+
+## INNER JOIN, ON, WHERE Queries
 IMPORT[https://github.com/Esthey/Database-in-SQL/blob/main/SQLQuery2.sql]
 
 # Conclusion
